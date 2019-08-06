@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\TechInterview\TechInterview\bin\Debug\TechInterview.exe.config
+C:\Users\Tim\Documents\GitHub\TechInterview\TechInterview\bin\Debug\TechInterview.exe
+C:\Users\Tim\Documents\GitHub\TechInterview\TechInterview\bin\Debug\TechInterview.pdb
+C:\Users\Tim\Documents\GitHub\TechInterview\TechInterview\obj\Debug\TechInterview.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\TechInterview\TechInterview\obj\Debug\TechInterview.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\TechInterview\TechInterview\obj\Debug\TechInterview.exe
+C:\Users\Tim\Documents\GitHub\TechInterview\TechInterview\obj\Debug\TechInterview.pdb
